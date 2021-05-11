@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/roark.laffed/.config/nvim/autoload/plugged/far.vim/rplugin/python3/far'
+let g:netrw_dirhist_7='/Users/roark.laffed/Desktop/NOTES'
+let g:netrw_dirhist_6='/Users/roark.laffed/Development/laffed.io v2.0/laffed_2/src'
+let g:netrw_dirhist_5='/Users/roark.laffed/Development/laffed.io v2.0/laffed_2'
+let g:netrw_dirhist_4='/Users/roark.laffed/Development/laffed.io v2.0/laffed_2/src'
+let g:netrw_dirhist_3='/Users/roark.laffed/Development/laffed.io v2.0/laffed_2'
+let g:netrw_dirhist_2='/Users/roark.laffed/Development/laffed.io v2.0/laffed_2/src'
+let g:netrw_dirhist_1='/Users/roark.laffed/Development/laffed.io v2.0/laffed_2'
